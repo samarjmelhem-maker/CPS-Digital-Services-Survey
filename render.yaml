@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: cps-survey-app
+    runtime: node
+    buildCommand: pnpm install && pnpm run build
+    startCommand: pnpm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: GOOGLE_CREDENTIALS
+        sync: false
+      - key: JORDAN_SHEET_ID
+        value: 1d9WGIOupjMRrty7tU4ERDzpKjN5hOzmNfGLgz_xJrL0
+      - key: UAE_SHEET_ID
+        value: 1qe-wGiEwv2CVdrIIQYPWHVZYyRoLyYKJMSZdSUQE8RY
+      - key: KSA_SHEET_ID
+        value: 1DZKBip9M_iXLArHZGwJvei1b6m7lOxbidF85YGbFjLA
+      - key: ALGERIA_SHEET_ID
+        value: 1cRK90FhDfMT4bFwhbz57F2lzVATAMM0r9KHz21hvEdw
+

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cps-survey-2025",
+  "private_key_id": "ea0593a9edbca17c1658ed0528ac0d9e1cc8504d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDy7tmrUoA0u65y\nRXWKwf3W1vmWzImp4V/PJ0zm3BGSJiHcbfdzWlQbKZsanISyw/p76gt1GEaSLeWQ\nCyBQ2J51jyoFHC/1dqozHOwITgVS42XEWTB4UW4O6pWxaOrRwYce32ULexvCEX5z\nAmbfTUAI/YmMG5skauhruUgEHwOs5WOWFbgK4JTMkKL8+IsEOJGIK4CD/wW6y+pr\nUZzsvn3m57sJYjoR4kO6lHnkAcYNC/M80ap4dcccw9uB0VQv1iaH6al8S5slbWLc\nqHUU5+TmjHDtc9FCfRtmaxgvyi1cN5xl8XT4j1vXTlOtdfgBMm2cakQOJRIhqaNv\na172yNIzAgMBAAECggEACtY70IgsHu4WYJOXpDp2I9zQInl6VKEwoHGM3SmJAR+B\nWC9xn+wyH0oSWLQNuVnDtT5iB3WvRDsW5/+PD/wxyWW7BqJUw1rpScFrCA3O7/0j\n34fpAR0Ez1aImfLnsray2940SDhUKyqTnPbI9wIfrqb8uUrL92prds67ly94/v/g\nWUkIN4MRd9Zq96Y/mZalpfYFtNiKqkvO6e26SpJPn3zU8+FY+96dYwUkky07z/i+\nuuNkezAzOrUiVmIV7IYV3IPx2/xMjtgD4siGpvX33Js5ZFLxmSRWZbXi+X0bceQE\nHNH8HtgCZhJ8wf60y7LQGcMCPhL1e35+savSZHJRjQKBgQD/s5YvqO/eP2Db+exA\n7PHndFYBkwlAHxMtsyeeHX9BQ/zvY3omOKmokivofJUwjgGcKdLyNTw1tRiqb5gR\nImLDkMinq55xgGZGa73FOVfUDXZmxjjFlfy3DVPa6Qtr42j7RLAvN0sOb6LuAFxq\ngxbKncZ3OT3k/D4XKk8s5mntbQKBgQDzN3KpCnr7YwiQlWVo+Oml89BFYMKtD2Yk\n0KBdnh0Gc1QvzikmszVuZlCyprUiMoCf37bW3CS8A5epFEnI+b9cQfimZu0gQzW4\nU6IwDkv/onsilHvlLlL8RXN5ZsmIP135oUSxWFndwDWBCsyDQXV0GK5lMJE5oOP6\nlsOpFjgaHwKBgBP683Rb7gpex3HI8KYOHcTpOUM8Ow/Qnc4HXsQjJ+twpZYLHuNX\nsCIk8dtjyMCXiBasyff1IvRLZ1cCC07jcfY4HQXFCkdyMgu0pYqAtZUzTBoxyQPf\neXTQTMohRawzg+OGdYHq/ylsnb2dN5t3DNPeSkDMr0JyV2O2AaPPiV1tAoGBAKV9\nmA4/bFj7FMvUa7FWlRzvXkqmwTAiZz0rm8K3oEZQWPtCSyvjCrs48TXuSxeex3iB\nL5bZKkGoLBzHCkGu9i9fUEJhjH3EXZwzhAsw3zNtKl3oLLlPoPW4iA8WCpEjlN0T\nh3sog9VoQL+ySmARPUsmtBt0RYyx1g4fYbj+vmO/AoGBAKOvIpEo1QIdicwBO99K\n0l26/GV1EWdRMcnsxlNsPyrfOAFjv8ZiYBt52QknGoBdVAPhpOWJ0n1VNQEaGE/H\nNt+MlzHne4TTR2kgeQdyL4EFGXhRG2icL2Xx6phoUpqvW0yPqAWlNGX45UpREvpc\nsbbqV5NQINuxN64oHm+PzX75\n-----END PRIVATE KEY-----\n",
+  "client_email": "sjreelius-gmail-com@cps-survey-2025.iam.gserviceaccount.com",
+  "client_id": "115223829885570265805",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sjreelius-gmail-com%40cps-survey-2025.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
